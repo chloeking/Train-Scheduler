@@ -1,0 +1,17 @@
+@font-face {
+	font-family: "caliFont";
+    src: url("cali.ttf");
+}
+
+h1 {
+	font-family: "caliFont";
+	border-bottom-style: solid;
+	border-color: #000000;
+
+}
+
+img {
+   padding:5px;
+   border:8px solid #000000;
+   background-color:#777777;
+}
